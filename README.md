@@ -1,19 +1,32 @@
-Hi 👋 I’m Gulfam Khan  
-Frontend Developer (Fresher) passionate about building responsive UI with HTML & CSS.
+## Hi 👋 I’m Gulfam Khan  
 
-🛠️ Skills:
-- HTML5
-- CSS3 (Flexbox, Responsive Design)
-- Git & GitHub
+💻 Frontend Developer (Fresher)  
+Passionate about building clean, responsive, and user-friendly web interfaces.
 
-📂 Projects:
-- Facebook-login-signup-clone
-- Amazon Clone (UI)
-- Netflix UI Clone
+---
 
-🌱 Currently learning:
-- JavaScript (Basics & DOM)
+### 🛠️ Skills
+- HTML5  
+- CSS3 (Flexbox, Responsive Design)  
+- **JavaScript (Basics, DOM Manipulation)**  
+- Git & GitHub  
 
-📫 Contact:
-gulfamkhan77309@gmail.com
+---
 
+### 📂 Projects
+- 💱 Currency Converter (HTML, CSS, JavaScript)  
+- Facebook Login & Signup Clone  
+- Amazon UI Clone  
+- Netflix UI Clone  
+
+---
+
+### 🌱 Currently Learning
+- Advanced JavaScript  
+- API Integration  
+- Frontend best practices  
+
+---
+
+### 📫 Contact
+📧 **gulfamkhan77309@gmail.com**
